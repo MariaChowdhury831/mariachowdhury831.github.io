@@ -1,6 +1,6 @@
 ---
 
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 
-You can view my CV in PDF format below:
-
-[View my CV (PDF)]({{ site.baseurl }}/files/CV_Maria.pdf)
+You can view my CV in PDF format [here]({{ site.baseurl }}/files/CV_Maria.pdf)
 
 
 
