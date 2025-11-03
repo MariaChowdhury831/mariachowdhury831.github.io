@@ -9,7 +9,7 @@ author_profile: true
 
 
 **Rajshahi University of Engineering and Technology (RUET)**  
-_B.Sc. in Computer Science and Engineering_
+_B.Sc. in Computer Science and Engineering_ <br>
 (January 2018 – September 2023)
 
 ## Notable Courses
