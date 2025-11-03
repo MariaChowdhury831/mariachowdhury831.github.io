@@ -2,8 +2,8 @@
 title: "Large Ensemble of Transfer-Learned Models for Plant Disease Recognition from Diverse Leaf Images"
 collection: publications
 category: conferences
-permalink: /publication/2024-10-23-large-ensemble
-date: 2024-10-23
+permalink: /publication/2023-10-23-large-ensemble
+date: 2023-10-23
 venue: "2nd International Conference on Big Data, IoT and Machine Learning (BIM 2023)"
 #paperurl: "https://ieeexplore.ieee.org/abstract/document/10101490"
 ---
