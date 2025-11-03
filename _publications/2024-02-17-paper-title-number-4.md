@@ -1,7 +1,4 @@
 ---
-
-
-
 Title: "Recognition of Leukemia Sub‑types Using Transfer Learning and Extraction of Distinguishable Features Using an Effective Machine Learning Approach"
 Authors: Tahsen Islam Sajon, **Maria Chowdhury**, Azmain Yakin Srizon, Md Farukuzzaman Faruk, SM Mahedy Hasan, Abu Sayeed, AFM Minhazur Rahman
 _published in 2023 international conference on electrical, computer and communication engineering (ECCE)_ 
