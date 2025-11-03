@@ -1,1 +1,27 @@
+<div class="publication-item">
+  <h3>
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
+    {% else %}
+      {{ post.title }}
+    {% endif %}
+  </h3>
+
+  {% if post.authors %}
+    <p><strong>Authors:</strong> {{ post.authors }}</p>
+  {% endif %}
+
+  {% if post.venue %}
+    <p><strong>Venue:</strong> {{ post.venue }}</p>
+  {% endif %}
+
+  {% if post.bookchapter %}
+    <p><strong>Book Chapter:</strong> {{ post.bookchapter }}</p>
+  {% endif %}
+
+  {% if post.abstract %}
+    <p>{{ post.abstract }}</p>
+  {% endif %}
+</div>
+<hr />
 
