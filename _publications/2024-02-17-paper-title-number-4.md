@@ -1,13 +1,14 @@
-
 ---
-title: "Recognition of leukemia sub-types using transfer learning and extraction of distinguishable features using an effective machine learning approach"
-collection: publications
+title: "Large Ensemble of Transfer-Learned Models for Plant Disease Recognition from Diverse Leaf Images" collection: publications
 category: conferences
-permalink: /publication/2023-02-23-Recognition of leukemia sub-types using transfer learning and extraction of distinguishable features using an effective machine learning approach
-date: 2023-02-23
-venue: '2023 international conference on electrical, computer and communication engineering (ECCE)'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10101490'
-citations: Tahsen Islam Sajon, **Maria Chowdhury**, Azmain Yakin Srizon, Md Farukuzzaman Faruk, SM Mahedy Hasan, Abu Sayeed, AFM Minhazur Rahman
+permalink: /publication/2023-02-23-leukemia-subtypes
+date: 2023-10-23
+venue: "2nd International Conference on Big Data, IoT and Machine Learning (BIM 2023)"
+#paperurl: "https://ieeexplore.ieee.org/abstract/document/10101490"
 ---
 
-This study examines automated leukemia subtype detection from blood smear images through transfer learning with CNN models like DenseNet201, EfficientNetB6, and Xception, reaching 99.69% accuracy, while also comparing traditional feature extraction techniques, including Hu Moments and Haralick Texture, paired with various classifiers. Our results show that deep learning substantially outperforms conventional methods, providing a pathway for more accurate and earlier leukemia diagnosis to improve patient treatment outcomes.
+**Authors:** **Maria Chowdhury**, Azmain Yakin Srizon, Tahsen Islam Sajon,  Md Farukuzzaman Faruk, SM Mahedy Hasan, Ananya Sarker, Md. Al Mamun, Md. Rakibul Haque, Md. Rakib Hossain
+
+**Book Chapter:** Data Driven Applications for Emerging Technologies (forthcoming, by Taylor & Francis)
+
+This study explores the use of ensemble learning for plant disease detection by combining multiple transfer-learned CNN models on the PlantDoc leaf image dataset through SoftMax Averaging. The ensemble approach proved more effective than individual models, showing better robustness when handling complex agricultural images under varied real-world conditions. Our findings suggest that leveraging diverse pretrained architectures can significantly improve diagnostic accuracy for challenging plant disease identification Our work demonstrates a pathway for earlier and more accurate leukemia diagnosis to support better patient treatment outcomes.
