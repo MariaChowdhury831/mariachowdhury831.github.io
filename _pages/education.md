@@ -1,5 +1,8 @@
+
 ---
 title: Education
+permalink: /education/
+layout: page
 ---
 
 # Education
