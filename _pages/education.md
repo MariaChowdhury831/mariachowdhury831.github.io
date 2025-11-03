@@ -3,7 +3,6 @@ title: Education
 permalink:/education/
 layout: page
 author_profile: true
-
 ---
 
 # Education
