@@ -1,9 +1,9 @@
 ---
 title: Education
-permalink:/education/
+permalink: /education/
 layout: page
-author_profile: true
 ---
+
 
 # Education
 
